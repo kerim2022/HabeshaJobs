@@ -1,2 +1,3 @@
 # HabeshaJobs  
-![unnamed](https://github.com/kerim2022/HabeshaJobs/assets/111186592/7b1c76a7-86db-4e46-8bf9-3d6ba0b1bd4b)
+![unnamed](https://github.com/kerim2022/HabeshaJobs/assets/111186592/7b1c76a7-86db-4e46-8bf9-3d6ba0b1bd4b)  
+A job searching website that helps employers fill vacant positions and individuals find the right job of their dreams particularly, in Ethiopia. There are many different online job portal systems in Ethiopia, but they have many limitations like Recruitment Agencies have Limited Choices, They have no screening. Anyone can sign up for a profile and apply for a job and They’re ineffective for high-level positions. Because they have no screening process, we would like to solve these problems in our portal called Habeshajobs.  
