@@ -8,10 +8,8 @@ We use SERVLETS to handle HTTP client requests, SERVLETS are an effective replac
 In addition to the Session object, there are a few more classes that we use for servlet development.  
 | Description                | Class                              |  
 | -------------------------  | ---------------------------------- | 
-| httpsessioncontext         | The httpsessioncontext is the object that contains all existing and valid sessions. The http session context can be obtained by calling get Session Context () on the Session object. The Http Session Context lets you find other Session
-objects by their IDs and list the IDs of all valid sessions. | 
-| HttpSessionBindingListener | HttpSessionBindingListener is an interface that can be implemented by objects placed into a Session. When the Session object is invalidated, its contained values are also removed from the system. Some of these values may be active objects that require cleanup operations when their session is invalidated. If a value in a Session object implements HttpSessionBindingListener, then the value is notified when the Session is invalidated, thereby giving the object a chance to perform any necessary cleanup
-operations. |  
+| httpsessioncontext         | The httpsessioncontext is the object that contains all existing and valid sessions. The http session context can be obtained by calling get Session Context () on the Session object. The Http Session Context lets you find other Session objects by their IDs and list the IDs of all valid sessions. |   
+| HttpSessionBindingListener | HttpSessionBindingListener is an interface that can be implemented by objects placed into a Session. When the Session object is invalidated, its contained values are also removed from the system. Some of these values may be active objects that require cleanup operations when their session is invalidated. If a value in a Session object implements HttpSessionBindingListener, then the value is notified when the Session is invalidated, thereby giving the object a chance to perform any necessary cleanup operations. | 
 ## 3. Data Modeling  
 ![unnamed](https://github.com/kerim2022/HabeshaJobs/assets/111186592/2c614df0-d13d-4eff-a508-a97500540c02)  
 ## 4. Progress  
